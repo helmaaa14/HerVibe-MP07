@@ -102,8 +102,8 @@ HerVibe/
 ## 👩‍💻 Author
 
 **Helma Afifah**  
-NIM: [NIM Anda]  
-Kelas: [Kelas Anda]
+NIM: 230104040215
+Kelas: Helma Afifah
 
 **Praktikum Mobile Programming #7**  
 Topik: Material Design 3, Style, Theme, & Modern UI Principles  
