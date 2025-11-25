@@ -103,7 +103,7 @@ HerVibe/
 
 **Helma Afifah**  
 NIM: 230104040215
-Kelas: Helma Afifah
+Kelas: TI 23 A
 
 **Praktikum Mobile Programming #7**  
 Topik: Material Design 3, Style, Theme, & Modern UI Principles  
